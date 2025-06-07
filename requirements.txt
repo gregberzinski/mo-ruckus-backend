@@ -1,0 +1,7 @@
+Flask==3.1.1
+Flask-SQLAlchemy
+Flask-SocketIO
+Flask-Login
+Flask-Admin
+stripe
+requests
